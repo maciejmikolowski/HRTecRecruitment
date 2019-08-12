@@ -39,11 +39,10 @@ $ composer require "sammyk/package-skeleton:1.0*"
 Usage
 -----
 
-``` php
-use SammyK\Skeleton;
+```
+php src/console.php csv:simple URL PATH - write RSS items from URL to PATH (must be csv file)
 
-$skeleton = new Skeleton();
-echo $skeleton->echoPhrase('Hello, World!');
+php src/console.php csv:extended URL PATH - write RSS items from URL to PATH existing file with data (must be csv file)
 
 ```
 

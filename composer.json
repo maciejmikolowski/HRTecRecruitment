@@ -1,14 +1,12 @@
 {
-    "name": "sammyk/package-skeleton",
-    "description": "A skeleton package to use as a base",
-    "keywords": ["skeleton"],
-    "homepage": "https://github.com/SammyK/package-skeleton",
+    "name": "HRtec project",
+    "description": "A project for HRtec in recruitment process",
+    "keywords": ["HRtec", "recruitment"],
     "license": "MIT",
     "authors": [
         {
-            "name": "Sammy Kaye Powers",
-            "email": "sammyk@sammykmedia.com",
-            "homepage": "http://sammyk.me",
+            "name": "Maciej Mikołowski",
+            "email": "mj.mikolowski@gmail.com",
             "role": "Developer"
         }
     ],
